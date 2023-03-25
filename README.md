@@ -1,9 +1,5 @@
 ![React Todo App](./banner.png)
 
-# Watch the shorts
-
-> YouTube Shorts here: [Click Me](https://www.example.com)
-
 # Make it own
 
 ```bash
